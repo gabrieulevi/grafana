@@ -6,9 +6,16 @@
         "name": "Deja"
     },
     {
-        "key": "c108",
-        "latitude": "-11.20919888500494",
-        "longitude": "-40.57350888848305",
-        "name": "Deja"
+        "key": "s106",
+        "latitude": "-11.19636239871733",
+        "longitude": "-40.5796330422163",
+        "name": "Velame"
+    },
+    {
+        "key": "s102",
+        "latitude": "-11.21110210953093",
+        "longitude": "-40.5316986143589",
+        "name": "Canavieira"
     }
+
 ]
