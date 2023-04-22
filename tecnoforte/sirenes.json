@@ -10,12 +10,27 @@
         "latitude": "-11.19636239871733",
         "longitude": "-40.5796330422163",
         "name": "Velame"
-    },
+    }
+    ,
     {
         "key": "s102",
         "latitude": "-11.21110210953093",
         "longitude": "-40.5316986143589",
         "name": "Canavieira"
+    }
+    ,
+    {
+        "key": "s103",
+        "latitude": "-11.21331841136094",
+        "longitude": "-40.55657777935266",
+        "name": "Malhadinha de Dentro"
+    }
+    ,
+    {
+        "key": "s103",
+        "latitude": "-11.18553497357817",
+        "longitude": "-40.52351921796799",
+        "name": "Peru"
     }
 
 ]
