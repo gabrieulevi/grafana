@@ -32,5 +32,26 @@
         "longitude": "-40.52351921796799",
         "name": "Peru"
     }
+    ,
+    {
+        "key": "s110",
+        "latitude": "-11.17565179926139",
+        "longitude": "-40.54252903908491",
+        "name": "Jacobina 2"
+    }
+    ,
+    {
+        "key": "s108",
+        "latitude": "-11.19295272439101",
+        "longitude": "-40.53933117538691",
+        "name": "Lagoa Dourada > Cidade do Ouro"
+    }
+    ,
+    {
+        "key": "s113",
+        "latitude": "-11.18159529545173",
+        "longitude": "-40.5538422614336",
+        "name": "Prainha"
+    }
 
 ]
