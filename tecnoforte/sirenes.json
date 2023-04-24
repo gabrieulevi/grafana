@@ -53,5 +53,18 @@
         "longitude": "-40.5538422614336",
         "name": "Prainha"
     }
+    ,
+    {
+        "key": "s101",
+        "latitude": "-11.23950137075889",
+        "longitude": "-40.52439438036615",
+        "name": "Barragem"
+    },
+    {
+        "key": "s114",
+        "latitude": "-11.20919569440674",
+        "longitude": "-40.57356574630408",
+        "name": "Augusto"
+    }
 
 ]
