@@ -1,62 +1,62 @@
 [
     {
-        "key": "ap01",
+        "key": "ry1",
         "latitude": "-11.22487618772582",
         "longitude": "-40.58315511792898",
-        "name": "200"
+        "name": "ry1"
     },
     {
-        "key": "ap02",
+        "key": "ry2",
         "latitude": "-11.22487618772582",
         "longitude": "-40.58315511792898",
-        "name": "199"
+        "name": "ry2"
     },
     {
-        "key": "ap03",
+        "key": "ry3",
         "latitude": "-11.22487618772582",
         "longitude": "-40.58315511792898",
-        "name": "198"
+        "name": "ry3"
     },
     {
-        "key": "ap04",
+        "key": "ry4",
         "latitude": "-11.22487618772582",
         "longitude": "-40.58315511792898",
-        "name": "197"
+        "name": "ry4"
     },
     {
-        "key": "ap05",
+        "key": "ry5",
         "latitude": "-11.22487618772582",
         "longitude": "-40.58315511792898",
-        "name": "196"
+        "name": "ry5"
     },    {
-        "key": "ap06",
+        "key": "ry6",
         "latitude": "-11.22487618772582",
         "longitude": "-40.58315511792898",
-        "name": "195"
+        "name": "ry6"
     },
     {
-        "key": "ap07",
+        "key": "ry7",
         "latitude": "-11.22487618772582",
         "longitude": "-40.58315511792898",
-        "name": "194"
+        "name": "ry7"
     },
     {
-        "key": "ap08",
+        "key": "ry8",
         "latitude": "-11.22487618772582",
         "longitude": "-40.58315511792898",
-        "name": "193"
+        "name": "ry8"
     },
     {
-        "key": "ap09",
+        "key": "ry9",
         "latitude": "-11.22487618772582",
         "longitude": "-40.58315511792898",
-        "name": "192"
+        "name": "ry9"
     },
     {
-        "key": "ap10",
+        "key": "ry10",
         "latitude": "-11.22487618772582",
         "longitude": "-40.58315511792898",
-        "name": "191"
+        "name": "ry10"
     }
 
 ]
