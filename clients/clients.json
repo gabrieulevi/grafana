@@ -1,4 +1,11 @@
-[
+[   
+    
+    {
+        "key": "c000",
+        "latitude": "-11.182618325274106",
+        "longitude": "-40.51512075059665",
+        "name": "Eventos Newnet"
+    },
     {
         "key": "c001",
         "latitude": "-11.176518429766308",
@@ -10,5 +17,89 @@
         "latitude": "-11.183284384257542",
         "longitude": "-40.51019466410405",
         "name": "Ascoob Jacobina"
+    },
+    {
+        "key": "c003",
+        "latitude": "-11.183219589788354",
+        "longitude": "-40.5112626739239",
+        "name": "Banco do Nordeste"
+    },
+    {
+        "key": "c004",
+        "latitude": "-11.18512647514405",
+        "longitude": "-40.52284158000376",
+        "name": "Choperia Bruno"
+    },
+    {
+        "key": "c005",
+        "latitude": "-11.18319240969593", 
+        "longitude": "-40.51513479254347",
+        "name": "Clínica Santa Bárbara"
+    },
+    {
+        "key": "c006",
+        "latitude": "-11.16791938351717",
+        "longitude": "-40.53712174238031",
+        "name": "Franklin Rios"
+    },
+    {
+        "key": "c007",
+        "latitude": "-11.186717775299782",
+        "longitude": "-40.5160322286344",
+        "name": "Hiper Servilar"
+    },
+    {
+        "key": "c008",
+        "latitude": "-11.19016089914202",
+        "longitude": "-40.51637292280623",
+        "name": "Hospital Regional"
+    },
+    {
+        "key": "c009",
+        "latitude": "-11.183945372970499",
+        "longitude": "-40.52923105869395",
+        "name": "Jacobina Veículos"
+    },
+    {
+        "key": "c010",
+        "latitude": "-11.178102756490318",
+        "longitude": "-40.51658244429298",
+        "name": "Katatal Fitness"
+    },
+    {
+        "key": "c011",
+        "latitude": "-11.186160722704182",
+        "longitude": "-40.50177495539552",
+        "name": "Keize Brito"
+    },
+    {
+        "key": "c012",
+        "latitude": "-11.176295323587011",
+        "longitude": "-40.52123592778909",
+        "name": "Michele Vitória"
+    },
+    {
+        "key": "c013",
+        "latitude": "-11.176430714361052",
+        "longitude": "-40.517264904896265",
+        "name": "Paulo Henrique"
+    },
+    {
+        "key": "c014",
+        "latitude": "-11.34021366387014",
+        "longitude": "-40.486460485657766",
+        "name": "Praça Itaitu"
+    },
+    {
+        "key": "c015",
+        "latitude": "-11.17256624687403",
+        "longitude": "-40.537152628861286",
+        "name": "Rancho Catarinense"
+    },
+    {
+        "key": "c016",
+        "latitude": "-11.19209708487019",
+        "longitude": "-40.518388761507",
+        "name": "Gabriel Leví"
     }
-]
+    ]
