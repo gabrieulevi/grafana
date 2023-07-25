@@ -1,6 +1,12 @@
 [
     {
         "key": "c001",
+        "latitude": "-11.176518429766308",
+        "longitude": "-40.50798318987407",
+        "name": "Armando Xavier"
+    },
+    {
+        "key": "c002",
         "latitude": "-11.22487618772582",
         "longitude": "-40.58315511792898",
         "name": "Deja"
